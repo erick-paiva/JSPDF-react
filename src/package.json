@@ -1,0 +1,15 @@
+{
+  "name": "pdf with react and jspdf",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/n4wx3nyqkj",
+  "main": "index.js",
+  "dependencies": {
+    "jspdf": "1.3.3",
+    "jspdf-autotable": "2.3.2",
+    "jspdf-react": "1.0.10",
+    "react": "15.5.3",
+    "react-dom": "15.5.3"
+  }
+}
